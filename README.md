@@ -2,7 +2,7 @@
 Welcome to my SQL Data Cleaning and Exploratory Data Analysis project repository! This project focuses on cleaning and analyzing a human resource dataset using SQL queries. By applying SQL data cleaning techniques and running insightful queries, we can gain valuable insights into various aspects of the dataset.
 
 # Project Overview
-In this project, I have utilized SQL to clean and analyze a human resource dataset. The dataset contains information about employees, including their demographics, dates of birth, hire dates, termination dates, job titles, departments, and locations. The project consists of two main parts: data cleaning and exploratory data analysis. At the end, the clean file was exported to PowerBI, where result where Visulized.
+In this project, I have utilized SQL to clean and analyze a human resource dataset. The dataset contains information about employees, including their demographics, dates of birth, hire dates, termination dates, job titles, departments, and locations. The project consists of two main parts: data cleaning and exploratory data analysis. At the end, the clean file was exported to PowerBI, where results were visualized.
 
 ## Data Cleaning with SQL
 In the data cleaning phase, I have performed several SQL queries to clean and preprocess the dataset. The following tasks were completed:
